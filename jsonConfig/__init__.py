@@ -21,4 +21,4 @@ from config import Config
 from editor import ConfigEditor
 from constants import *
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'

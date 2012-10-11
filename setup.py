@@ -20,8 +20,5 @@ setup(
 				'Programming Language :: Python :: 2',
 				'Topic :: Utilities',
     ],
-	license = 'GPL-3',
-	install_requires = [
-					'setuptools'
-	],
+	license = 'GPL-3'
  )
